@@ -6,7 +6,7 @@ namespace Dma.BaseGame
     {
     }
 
-    public abstract class SingletoManagern<T> : SingletonManager
+    public abstract class SingletoManager<T> : SingletonManager
         where T : SingletonManager
     {
         private static T s_Instance;

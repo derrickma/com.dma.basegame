@@ -1,6 +1,6 @@
 ﻿{
     "name": "com.dma.basegame",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Dma's Base Game Package",
     "description": "This is base game package, including singleton, databases etc.",
     "unity": "2018.1",
