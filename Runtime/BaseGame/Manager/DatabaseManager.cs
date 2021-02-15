@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Dma.BaseGame
 {
-    public class DatabaseManager : SingletoManager<DatabaseManager>
+    public class DatabaseManager : SingletonManager<DatabaseManager>
     {
         public List<BaseDatabase> Databases;
 
